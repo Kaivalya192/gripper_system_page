@@ -1,4 +1,4 @@
-# 🤖 Gripper System
+# 🤖 Gripper System Page
 
 This project powers a smart, modular robotic gripper system built for **Sastra Robotics' SAR05 Parallel Jaw Gripper**. Designed with a focus on **real-time control**, **vision-guided intelligence**, and **intuitive web interaction**, it seamlessly integrates robotic feedback, camera input, and AI-driven perception.
 
@@ -34,6 +34,12 @@ This project powers a smart, modular robotic gripper system built for **Sastra R
   Built using Angular and Flask, the UI provides an intuitive interface to control the gripper, visualize camera feeds, and interact with AI modules — all from a browser.
 
 ---
+
+## 🛠️ Client Vision SDK
+
+A lightweight SDK for seamless integration of AI vision modules into your robotics projects.
+
+Repo: [Client Vision SDK](https://github.com/Kaivalya192/client_vision_sdk)
 
 ## 🖥️ Interfaces
 
